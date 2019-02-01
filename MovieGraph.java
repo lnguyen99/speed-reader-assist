@@ -3,8 +3,6 @@
 MovieGraph.java
 COSC 102, Colgate University
 
-Your code goes here.
-See instructions for explanation of methods.
 
 */
 

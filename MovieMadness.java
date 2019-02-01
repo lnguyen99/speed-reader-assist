@@ -1,8 +1,7 @@
 /*
  * 
  MovieMadness.java
- 
- COSC 102, Colgate University
+ * @Prof Elodie Fourquet, Colgate University 
 
  DO NOT MODIFY ANY CODE IN THIS FILE 
  */
@@ -12,11 +11,6 @@ import java.util.*;
 
 public class MovieMadness
 {
-  
-  
-  
-
-  
   
   
   /*
